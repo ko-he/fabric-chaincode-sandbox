@@ -1,3 +1,4 @@
 .DS_Store
 /myc.block
 /chaincode/chaincode
+service/node_modules
