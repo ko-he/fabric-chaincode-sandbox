@@ -2,3 +2,4 @@
 /myc.block
 /chaincode/chaincode
 service/node_modules
+service/dist
